@@ -9,7 +9,7 @@
 💻 Estudante de **Engenharia de Software**  
 🦁 Desenvolvedor em formação na **Lions Startup**  
 ⚡ Focado em **Desenvolvimento Web Fullstack**  
-🚀 Construindo projetos com foco em **renda, automação e soluções reais**  
+🚀 Construindo projetos com foco em **automação e soluções reais**  
 🎯 Disciplina + constância = evolução  
 
 ---
