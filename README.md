@@ -65,13 +65,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=volcysalony&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=volcysalony&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volcysalony&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<br><br>
-
-<img width="86%" src="https://streak-stats.demolab.com?user=volcysalony&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volcysalony&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
