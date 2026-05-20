@@ -81,6 +81,6 @@ Evoluir constantemente como desenvolvedor e construir soluções que gerem **imp
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&text=Volcy%20Salony&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
 
 </div>
