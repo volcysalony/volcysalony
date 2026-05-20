@@ -63,13 +63,15 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=volcysalony&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volcysalony&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=volcysalony&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
 
-<img src="https://streak-stats.demolab.com?user=volcysalony&theme=tokyonight&hide_border=true&border_radius=10" />
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volcysalony&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<br><br>
+
+<img width="86%" src="https://streak-stats.demolab.com?user=volcysalony&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </div>
 
