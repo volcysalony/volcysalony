@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Volcy%20Salony&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ol%C3%A1,%20eu%20sou%20Volcy!&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
-# 🚀 Olá, eu sou o Volcy!
+## 👨‍💻 Sobre mim
 
-💻 Estudante de **Engenharia de Software**  
-🦁 Desenvolvedor em formação na **Lions Startup**  
-⚡ Focado em **Desenvolvimento Web Fullstack**  
-🚀 Construindo projetos com foco em **automação e soluções reais**  
-🎯 Disciplina + constância = evolução  
+Estudante de **Engenharia de Software**, com foco em desenvolvimento de software e construção de aplicações web.
+
+Atualmente, venho desenvolvendo projetos práticos utilizando tecnologias como **JavaScript, Node.js, Express e MongoDB**, além de ampliar meus conhecimentos em **Python, Java e bancos de dados**.
+
+Busco evoluir continuamente por meio de projetos, estudos e desafios práticos, aplicando boas práticas de desenvolvimento e transformando conhecimento em soluções funcionais.
 
 ---
 
@@ -19,49 +19,47 @@
 ### 🌐 Conecte-se comigo
 
 <a href="https://linkedin.com/in/volcysalony">
-  <img src="https://img.shields.io/badge/LinkedIn-Volcy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Volcy%20Salony-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:salonyvolcy346@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
----
-
-### 👨‍💻 Stack Principal
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,java" />
-</p>
+</div>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
 
 <table>
 <tr>
 
-<td align="center">
-<strong>Frontend</strong><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<td align="center" width="33%">
+<strong>Linguagens & Web</strong><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
 </td>
 
-<td align="center">
-<strong>Backend</strong><br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,python,java" />
+<td align="center" width="33%">
+<strong>Backend & Banco de Dados</strong><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </td>
 
-<td align="center">
-<strong>Ferramentas</strong><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<td align="center" width="33%">
+<strong>Ferramentas & Ambiente</strong><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman" />
 </td>
 
 </tr>
 </table>
 
+</div>
+
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -73,14 +71,14 @@
 
 ---
 
-### 🧭 Objetivo
+## 🎯 Objetivo
 
-Evoluir constantemente como desenvolvedor e construir soluções que gerem **impacto real e valor através da tecnologia.**
+Aprimorar continuamente minhas habilidades em **Engenharia de Software e Desenvolvimento Web**, construindo projetos que resolvam problemas reais e contribuam para minha evolução profissional como desenvolvedor.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&text=Volcy%20Salony&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 </div>
