@@ -6,9 +6,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Estudante de **Engenharia de Software**, com foco em desenvolvimento de software e construção de aplicações web.
+Estudante de **Engenharia de Software**, com foco em **desenvolvimento backend e aplicações web**.
 
-Atualmente, venho desenvolvendo projetos práticos utilizando tecnologias como **JavaScript, Node.js, Express e MongoDB**, além de ampliar meus conhecimentos em **Python, Java e bancos de dados**.
+Atualmente, desenvolvo projetos práticos utilizando tecnologias como **JavaScript, TypeScript, Node.js, Express e MongoDB**, além de ampliar meus conhecimentos em **Python, Java, bancos de dados e arquitetura de software**.
 
 Busco evoluir continuamente por meio de projetos, estudos e desafios práticos, aplicando boas práticas de desenvolvimento e transformando conhecimento em soluções funcionais.
 
@@ -39,12 +39,12 @@ Busco evoluir continuamente por meio de projetos, estudos e desafios práticos, 
 
 <td align="center" width="33%">
 <strong>Linguagens & Web</strong><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
 </td>
 
 <td align="center" width="33%">
 <strong>Backend & Banco de Dados</strong><br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,mysql,prisma" />
 </td>
 
 <td align="center" width="33%">
@@ -63,9 +63,11 @@ Busco evoluir continuamente por meio de projetos, estudos e desafios práticos, 
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=volcysalony&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=volcysalony&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true"/>
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=volcysalony&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=volcysalony&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5"/>
 
 </div>
 
@@ -73,7 +75,7 @@ Busco evoluir continuamente por meio de projetos, estudos e desafios práticos, 
 
 ## 🎯 Objetivo
 
-Aprimorar continuamente minhas habilidades em **Engenharia de Software e Desenvolvimento Web**, construindo projetos que resolvam problemas reais e contribuam para minha evolução profissional como desenvolvedor.
+Aprimorar continuamente minhas habilidades em **Engenharia de Software e Desenvolvimento Backend**, construindo aplicações e projetos que resolvam problemas reais e contribuam para minha evolução profissional como desenvolvedor.
 
 ---
 
