@@ -63,11 +63,11 @@ Busco evoluir continuamente por meio de projetos, estudos e desafios práticos, 
 
 <div align="center">
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=volcysalony&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true"/>
+<img width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=volcysalony&theme=github_dark"/>
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=volcysalony&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5"/>
+<img width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=volcysalony&theme=github_dark"/>
 
 </div>
 
