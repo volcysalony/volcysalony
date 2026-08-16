@@ -1,0 +1,65 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(830 70) rotate(35) scale(320 150)">
+      <stop stop-color="#5B21B6" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#5B21B6" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 250) rotate(-15) scale(260 120)">
+      <stop stop-color="#2563EB" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <ellipse cx="830" cy="70" rx="320" ry="150" fill="url(#glow1)"/>
+  <ellipse cx="980" cy="250" rx="260" ry="120" fill="url(#glow2)"/>
+
+  <!-- left profile card -->
+  <g filter="url(#shadow)">
+    <rect x="52" y="110" width="210" height="72" rx="36" fill="#1C2333" stroke="#2F3B52"/>
+    <circle cx="92" cy="146" r="24" fill="#2563EB"/>
+    <text x="92" y="153" text-anchor="middle" fill="white" font-size="18" font-weight="700" font-family="Segoe UI, Arial, sans-serif">VS</text>
+
+    <text x="128" y="138" fill="#F8FAFC" font-size="18" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Volcy</text>
+    <text x="128" y="159" fill="#9CA3AF" font-size="14" font-family="Segoe UI, Arial, sans-serif">@volcysalony</text>
+  </g>
+
+  <!-- editor window -->
+  <g filter="url(#shadow)">
+    <rect x="300" y="48" width="840" height="224" rx="22" fill="#F8FAFC"/>
+    <rect x="300" y="48" width="840" height="42" rx="22" fill="#E5E7EB"/>
+    <rect x="300" y="70" width="840" height="20" fill="#E5E7EB"/>
+
+    <circle cx="328" cy="69" r="6" fill="#FF5F57"/>
+    <circle cx="348" cy="69" r="6" fill="#FEBC2E"/>
+    <circle cx="368" cy="69" r="6" fill="#28C840"/>
+
+    <text x="747" y="74" text-anchor="middle" fill="#4B5563" font-size="16" font-family="Segoe UI, Arial, sans-serif">SoftwareEngineer.ts</text>
+
+    <rect x="324" y="102" width="790" height="28" rx="8" fill="#DCFCE7"/>
+    <text x="338" y="121" fill="#6B7280" font-size="16" font-family="Consolas, Monaco, monospace">// Building software that solves real problems.</text>
+
+    <text x="338" y="158" fill="#DC2626" font-size="18" font-family="Consolas, Monaco, monospace">const</text>
+    <text x="398" y="158" fill="#7C3AED" font-size="18" font-family="Consolas, Monaco, monospace">developer</text>
+    <text x="510" y="158" fill="#111827" font-size="18" font-family="Consolas, Monaco, monospace">= "Volcy Salony";</text>
+
+    <text x="338" y="192" fill="#DC2626" font-size="18" font-family="Consolas, Monaco, monospace">while</text>
+    <text x="398" y="192" fill="#111827" font-size="18" font-family="Consolas, Monaco, monospace">(learning) {</text>
+
+    <text x="368" y="225" fill="#7C3AED" font-size="18" font-family="Consolas, Monaco, monospace">buildProjects();</text>
+    <text x="563" y="225" fill="#6B7280" font-size="18" font-family="Consolas, Monaco, monospace">// learn • build • improve</text>
+
+    <text x="338" y="256" fill="#111827" font-size="18" font-family="Consolas, Monaco, monospace">}</text>
+  </g>
+</svg>
